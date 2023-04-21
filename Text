@@ -1,0 +1,18 @@
+int x , y , z
+
+String alpha
+
+if ( y <= 5 ) { 
+	x = 4 ; 
+	y + 1 ;
+} 
+else { 
+	y + 2 ;
+} 
+while ( alpha <= 4 ) {
+	alpha + 1 ; 
+	if ( alpha > 2 ) {
+		x = 4 ;
+		z = 5 ;
+	}
+}
