@@ -4,6 +4,8 @@ Compile both HW4 and Rda together. HW4 is the lexer and also contains the driver
 
 To use a file with this, simply type in its name and extension. If the file is not found, the program will display where the file should be located.
 
+Included in this repository is a text file sample to be ran with this.
+
 The biggest and most important thing is that all inputs must be spaced out.
 
 Ie: if ( x == 2 ) { y + 2 ; } or while ( test != x ) { haha = 5 ; jokes = 6 ; }
